@@ -1,0 +1,19 @@
+{
+  "name": "elisonkaloshi/php-mvc",
+  "description": "A simple php mvc framework",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app"
+    },
+    "classmap": [
+      "app/",
+      "database/",
+      "config",
+      "routes"
+    ]
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.5",
+    "ext-mysqli": "*"
+  }
+}
