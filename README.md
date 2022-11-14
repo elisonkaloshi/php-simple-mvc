@@ -7,7 +7,7 @@ PHP simple mvc
 
 `I created a simple crud in this project to demonstrate how to get and manipulate data easily.`
 
-`The project is designed to be expanded easily by adding other entities on it very easily.`
+`The project is designed to be expanded easily by adding other entities on it.`
 
 ### Installation
 
@@ -61,6 +61,7 @@ PHP simple mvc
 `1. Add a new view in the resources/views/`
 ### Run project
 
-`./command.sh -s 9999`
+`./command.sh -s {PORT}`
 
+`Example: ./command.sh -s 9999`
 
