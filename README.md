@@ -1,4 +1,4 @@
-# php-simple-mvc
+# PHP Simple MVC
 
 ## About the project
 
